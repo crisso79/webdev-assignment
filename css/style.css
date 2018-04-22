@@ -1,0 +1,185 @@
+body{background-image: url(../images/anf4.jpg);
+background-repeat: no-repeat;
+background-position: top,center;
+background-size: cover;
+
+}
+
+form {width: 600px;
+font-family: verdana, "sans-serif";
+border: solid 1px yellow;
+ }
+
+fieldset { border-radius: 10px;
+margin: 25px;
+background-color: red;
+border: solid 1px;
+color: yellow;
+opacity: .7;}
+
+#fmem {background-color: red;}
+#membership {width: 100%;}
+
+#header{background-color: red;
+height: 200px;
+width: 100%;
+border: 1px solid;
+color: yellow;
+}
+
+#logo{
+float:left;
+margin: 5px;
+
+
+
+}
+#logo img{height: 190px;
+border: solid 1px;
+color: yellow;}
+
+h1{font-family: Sans-serif;
+color: yellow;
+text-align: center;
+padding-top: 100px;}
+
+nav ul {
+ 	font-family: Sans-serif;
+ 	
+ 	list-style-type: none;
+ 	margin:0;
+ 	padding:0;
+    }
+   
+nav li  {float: right;
+      display:inline-block;
+      
+      padding:0 5px;
+    }
+    
+ nav a {display: block;
+ min-width: 100px;
+ background-color: red;
+ border-radius: 10px;
+ min-height: 20px;
+ padding-top: 5px;
+ padding-left: 2px;
+ padding-right: 2px;
+ margin-right:5px;
+ margin-left: 5px;
+ margin-top: 10px;
+ border: solid 2px yellow;
+ }
+ 
+ a:link {border: solid 2px yellow;
+ 	background-color: red;
+        color: yellow;
+        text-align: center; 
+        text-decoration: none;
+        display: inline-block;
+}
+
+a:visited {color: yellow;}
+
+
+
+a:hover {
+    background-color: white;
+    color: red;
+}
+
+a.active {border: solid 2px yellow;
+    background-color: white;
+    color: red;
+}
+
+
+#nav{border: 1px solid;
+color: yellow;
+padding-top: 10px;
+padding-left: 0px;
+padding-right: 0px;
+padding-bottom: 20px;
+background-color: red;
+width: 100%;
+margin-top: 5px;
+margin-bottom: 5px;
+min-height: 50px;}
+
+
+#footer{background-color: red;
+padding: 5px;
+width: 100%;
+height: 50px;
+border: 1px solid yellow;
+clear: both;
+margin-top:50px;
+/*position: fixed;
+bottom: 20px;*/}
+
+p{float: right;
+text-align: left;
+font-family: Sans-serif;
+font-size: 1em;
+color: #c30000;
+background: #ffff50;
+opacity: .7;
+border: solid 1px;
+}
+
+h2{color: yellow;
+ text-align: center;}
+ 
+
+ 
+#bill{width: 500px;
+color: red;
+font-family: Sans-serif;
+font-size: 1em;
+}
+#bill img {margin: 30px;}
+
+
+#bob{width: 500px;
+color: red;
+font-family: Sans-serif;
+font-size: 1em;
+}
+
+#stadium{
+position: relative;
+text-align: centre;}
+
+#heysel{text-align: center;
+color: red;
+font-family: Sans-serif;
+font-size: 1em;
+}
+
+#hillsborough{text-align: center;
+color: red;
+font-family: Sans-serif;
+font-size: 1em;
+}
+#jersey {margin: 5px;
+border: solid 1px;
+color: yellow;}
+
+#membership{opacity: .7;
+color: white;}
+
+.button {
+    background-color: black;
+    
+    color: black;
+    border-radius: 12px
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+    margin: 2px;
+}
+
+.managers{ float:left;
+border: solid 1px yellow;
+}
